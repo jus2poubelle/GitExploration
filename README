@@ -1,0 +1,13 @@
+Mes notes a propos de GIT et SourceTree.
+
+- creer un dossier en local. Puis par le terminal sur MacOS, ou par GIT BASH sur Windows, je fais "git init" dans ce dossier.
+- creer un repo sur github.net
+- ajouter mon repo dans sourceTree
+- ajouter un repo distant pour ce repo local
+- commit
+- push
+- c'est gagné
+
+TIPS:
+Par sourcetree, je ne pouvais pas voir mes repos GitHub privés. Pour ca il a fallu creer un tokken en cochant toutes les cases:
+https://stackoverflow.com/questions/50263836/cant-clone-private-repo-on-github-from-sourcetree
